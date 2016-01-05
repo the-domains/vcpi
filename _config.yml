@@ -1,0 +1,28 @@
+name: VCPI
+favicon: null
+layout_spectrum: 0.01572002936154604
+typography_spectrum: 0.30394745292142034
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8967099359724671
+  lightness: 0.44725788733921945
+  saturation: 0.8559667025692761
+  rhythmicContrast: 0.02754141390323639
+purpose: []
