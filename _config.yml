@@ -1,7 +1,7 @@
 name: VCPI
 favicon: null
-layout_spectrum: 0.01572002936154604
-typography_spectrum: 0.30394745292142034
+layout_spectrum: 0.24878
+typography_spectrum: 0.23891
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#ffffff'
     - '#ff0000'
     - '#f4795b'
-  brandStrength: 0.5
-  lightness: 0.44725788733921945
-  saturation: 0.875
-  rhythmicContrast: 0.02754141390323639
+  brandStrength: 0.625
+  lightness: 0.25
+  saturation: 0.75
+  rhythmicContrast: 0
 purpose: []
