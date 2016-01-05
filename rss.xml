@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VCPI]]></title>
+        <description><![CDATA[VCPI]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jan 2016 15:10:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mais sobre o VCPI]]></title>
+            <description><![CDATA[<article><h1>Mais sobre o VCPI</h1><p>Nossa história</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/901d3fec234dd6a5e02d72e5e4d08ae24380c820.jpg"></article>]]></description>
+            <link>undefinedmais-sobre-o-vcpi/index.html</link>
+            <guid isPermaLink="false">e4e54fe8-2cd2-415f-b8b4-1e50a02fb5b6</guid>
+            <pubDate>Tue, 05 Jan 2016 15:10:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
